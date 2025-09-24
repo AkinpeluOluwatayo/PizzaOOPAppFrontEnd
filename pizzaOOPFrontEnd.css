@@ -1,0 +1,140 @@
+
+body{
+    /* background-color: rgba(0, 217, 255, 0.219); */
+    background-image: url("./assest/399-light-grey.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.TopText{
+    color: white;
+    
+    margin-top: 100;
+   text-align: center;
+    font-size: 50px;
+     text-shadow: 1px 1px 1px  black;
+}
+.SecondTopText{
+    color: white;
+    margin-left: 450px;
+}
+.bigSizeText{
+    color: black;
+    font-size: 40;
+    text-shadow: 1px 1px 1px  black;
+     margin-left: 70px;
+     
+}
+
+.MediumSizeText{
+    color: black;
+    font-size: 40;
+    text-shadow: 1px 1px 1px  black;
+    margin-left: 40px;
+     
+}
+.SmallSizeText{
+    color: black;
+    font-size: 40;
+    text-shadow: 1px 1px 1px  black;
+    margin-left: 60px;
+}
+.divContainer{
+background-color: white;
+width: 250px;
+height: 450px;
+margin-top: 100px;
+margin-left: 160px;
+border-radius: 20px;
+box-shadow: 5px 5px 5px 5px black;
+}
+.orderNowButton{
+    color:black;
+    background-color: greenyellow;
+    margin-left: 80px;
+    margin-top: 25px;
+    border-radius: 10px;
+    height: 45px;
+}
+.orderNowbutton2{
+    color:black;
+    background-color: greenyellow;
+    margin-left: 80px;
+    margin-top: 35px;
+    border-radius: 10px;
+    height: 45px;
+}
+.orderNowbutton4{
+     color:black;
+    background-color: greenyellow;
+    margin-left: 80px;
+    margin-top: 40px;
+    border-radius: 10px;
+    height: 45px;
+}
+.divContainer3{
+background-color: white;
+width: 18.5%;
+height: 220px;
+margin-top: -409px;
+margin-left: 160px;
+border-radius: 13px;
+box-shadow: 2px 2px 1px 1px black;
+
+}
+.divContainer4{
+background-color: white;
+width: 250px;
+height: 227px;
+margin-top: -230px;
+margin-left: 540px;
+border-radius: 13px;
+box-shadow: 2px 2px 1px 1px black;
+}
+.divContainer5{
+background-color: white;
+width: 250px;
+height: 220px;
+margin-top: -230px;
+margin-left: 945px;
+border-radius: 20px;
+box-shadow: 2px 2px 1px 1px black;
+}
+.divContainer1{
+background-color: white;
+width: 250px;
+height: 450px;
+margin-left: 40%;
+margin-top:-34%;
+border-radius: 20px;
+box-shadow: 5px 5px 5px 5px black;
+}
+.divContainer2{
+background-color: white;
+width: 250px;
+height: 450px;
+margin-left: 70%;
+margin-top:-34%;
+border-radius: 20px;
+box-shadow: 5px 5px 5px 5px black;
+}
+.pizzaOne{
+    width: 95%;
+    height: 200px;
+    margin-left: 6px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+.pizzaTwo{
+    width: 95%;
+    height: 200px;
+    margin-left: 6px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+.pizzaThree{
+    width: 95%;
+    height: 200px;
+    margin-left: 6px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
